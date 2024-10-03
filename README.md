@@ -29,7 +29,7 @@ Previously, adjusting the system date was the workaround for running older repor
 
 1. Clone the repository:
     ```sh
-    git https://github.com/BLibs/Retroactive_Hourly_Sales.git
+    git clone https://github.com/BLibs/Retroactive_Hourly_Sales.git
     ```
 2. Navigate to the project directory:
     ```sh
